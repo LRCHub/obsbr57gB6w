@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "PINK / キタニタツヤ - PINK / Tatsuya Kitani",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-08T11:18:50.288010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pink Champagne",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/01_Pink_Champagne_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A White Sport Coat (& a Pink Carnation)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/02_A_White_Sport_Coat_(&_a_Pink_Carnation)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A White Sport Coat (And a Pink Carnation) (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/03_A_White_Sport_Coat_(And_a_Pink_Carnation)_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pink Flamingos",
+      "artist": "Tracy Byrd",
+      "has_synced": false,
+      "path": "select/04_Pink_Flamingos_Tracy_Byrd.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pink Flamingos (Album Version)",
+      "artist": "Tracy Byrd",
+      "has_synced": false,
+      "path": "select/05_Pink_Flamingos_(Album_Version)_Tracy_Byrd.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pink Houses",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/06_Pink_Houses_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pink Sunglasses",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/07_Pink_Sunglasses_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pink Sunglasses (Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/08_Pink_Sunglasses_(Album)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Geek in the Pink",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/09_Geek_in_the_Pink_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pink Maggit",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/10_Pink_Maggit_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Starz (feat. Ariel Pink)",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/11_Starz_(feat._Ariel_Pink)_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hot Pink",
+      "artist": "Let's Eat Grandma",
+      "has_synced": true,
+      "path": "select/12_Hot_Pink_Let's_Eat_Grandma.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Soft Focus Feat. Ariel Pink and Elzhi",
+      "artist": "Lushlife",
+      "has_synced": true,
+      "path": "select/13_In_Soft_Focus_Feat._Ariel_Pink_and_Elzhi_Lushlife.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Open Up (I Hate Pink Floyd mix)",
+      "artist": "Leftfield",
+      "has_synced": false,
+      "path": "select/14_Open_Up_(I_Hate_Pink_Floyd_mix)_Leftfield.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pink Light",
+      "artist": "Laura Veirs",
+      "has_synced": false,
+      "path": "select/15_Pink_Light_Laura_Veirs.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Houdini (feat. Swarmz & Tion Wayne) [Pink Panda Remix]",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/16_Houdini_(feat._Swarmz_&_Tion_Wayne)_[Pink_Panda_Remix]_KSI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PINK",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_PINK_キタニタツヤ.txt"
+    }
+  ]
+}
