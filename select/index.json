@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "PINK / キタニタツヤ - PINK / Tatsuya Kitani",
+  "base_track": "PINK",
   "base_artist": "キタニタツヤ",
-  "createdAt": "2026-02-08T11:18:50.288010Z",
+  "createdAt": "2026-03-28T22:23:21.758510Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "キタニタツヤ",
       "has_synced": false,
       "path": "select/pl_01_PINK_キタニタツヤ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "PINK",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/localdb_01_PINK_キタニタツヤ.txt",
+      "repo_name": "obsbr57gB6w"
     }
   ]
 }
